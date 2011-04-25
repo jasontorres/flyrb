@@ -17,6 +17,7 @@ module Flyrb
     DEFAULTS = %w{wirble
                   gist
                   hash_math
+                  command_history 
                   interactive_editor
                   irb_options
                   irb_verbosity_control}
